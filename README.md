@@ -13,7 +13,14 @@ This project uses different component as follows :-
     * Sharedpreference usage to cached some data.
     * Customview defined to define once and use whereevere you want.
     * Used colors defined as an enum, so that you don't need to define everywhere in the app. Define once and use whereever you want.
+    
+Screenshots Attached :-
 
+![alt text](https://github.com/kumarsiddy/kisankonnect/blob/master/screenshots/screen01.jpeg) 
+![alt text](https://github.com/kumarsiddy/kisankonnect/blob/master/screenshots/screen02.jpeg) 
+![alt text](https://github.com/kumarsiddy/kisankonnect/blob/master/screenshots/screen03.jpeg) 
+![alt text](https://github.com/kumarsiddy/kisankonnect/blob/master/screenshots/screen04.jpeg) 
+![alt text](https://github.com/kumarsiddy/kisankonnect/blob/master/screenshots/screen05.jpeg) 
 
 Resources to get you started if you want to try it out:
 
