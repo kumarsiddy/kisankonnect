@@ -17,4 +17,4 @@ This project uses different component as follows :-
 
 Resources to get you started if you want to try it out:
 
-- [Corresponding server defined here for the support for this app here](https://github.com/kumarsiddy/kisankonnect-server)
+- [Corresponding server defined here for the support of this app](https://github.com/kumarsiddy/kisankonnect-server)
